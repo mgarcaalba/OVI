@@ -1,0 +1,45 @@
+*{
+	margin: 10px 10px 10px 10px;
+	padding: 10px 10px 10px 10px;
+}
+
+
+body {
+	background: white;
+}
+
+#header{ /*invocar al id*/
+	background-size:cover;
+	background-repeat:no-repeat;
+    width: 1070px;
+	height: 300px;
+	margin: auto;
+	position: relative;
+	font-family: 'Quicksand', sans-serif;
+}
+.contenido {
+	background-image: url("../images/puntero.jpg");
+    background-repeat: no-repeat;
+	margin: 200px;
+	position: relative;
+	font-family: 'Quicksand', sans-serif;
+}
+.subtitulo {
+	font-size: 50px;
+	text-align: center;
+}
+.parrafo {
+	font-size: 20px;
+	/*text-align: center;*/
+	color:#45608E;
+	
+}
+.head_contenedor{ /*invocar clase*/
+	background-size:cover;
+	background-repeat:no-repeat;
+    width: 1070px;
+	height: 300px;
+	margin: auto;
+	position: relative;
+	font-family: 'Quicksand', sans-serif;
+}
